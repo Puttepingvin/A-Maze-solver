@@ -1,0 +1,11 @@
+﻿.content{
+}
+#testimage{
+	display: block;
+	position: absolute;
+	top: -99999px;
+	left: -99999px;
+}
+body{
+	margin:0;
+}
